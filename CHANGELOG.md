@@ -1,3 +1,5 @@
+## [12.0.0]
+- Angular 12 support
 ### [11.0.0]
 - Angular 11 support
 ### [10.0.0]
